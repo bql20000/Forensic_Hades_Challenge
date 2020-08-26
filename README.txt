@@ -18,7 +18,7 @@ Some important files / folder:
 	- trained_MLP_sklearn.sav: trained MLP model from sklearn
 	- filename_labels.csv: labels for test images in 'test_data' folder. (Format: dict[filename] = 0 or 1)
 
-Colab work link: https://colab.research.google.com/drive/1w85yye8m-HkAJpmIaRH8fdrOKbzgHQHz?authuser=1#scrollTo=IKF_eb0dmhX7
+Colab work link: https://colab.research.google.com/drive/1w85yye8m-HkAJpmIaRH8fdrOKbzgHQHz?usp=sharing
 
 * "test_data" folder can be downloaded at: https://drive.google.com/drive/folders/1kA6X3L07IMtVqcrIvLtNhwsWBOR4SX0A?usp=sharing
 
